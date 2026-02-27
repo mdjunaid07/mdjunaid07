@@ -23,6 +23,7 @@ I build with it.
 🚀 Building SaaS & Intelligent Systems
 
 🛠 Tech Stack
+
 💻 Frontend
 
 ReactJS
@@ -64,6 +65,7 @@ Package Risk Analysis Concepts
 Supply Chain Threat Awareness
 
 💼 Projects
+
 🧑‍💼 Employee Management System (EMS)
 
 Role-based authentication
