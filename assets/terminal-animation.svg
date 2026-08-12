@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="45" viewBox="0 0 650 45">
+  <style>
+    .text {
+      font-family: "Fira Code", monospace;
+      font-size: 23px;
+      font-weight: 600;
+      fill: #00FF66;
+    }
+
+    .cursor {
+      fill: #00FF66;
+    }
+  </style>
+
+  <text x="50%" y="30" text-anchor="middle" class="text">
+    <tspan>
+      <animate
+        attributeName="opacity"
+        values="0;1;1;0"
+        dur="10s"
+        repeatCount="indefinite"
+      />
+    </tspan>
+  </text>
+
+  <!-- Text 1 -->
+  <text x="50%" y="30" text-anchor="middle" class="text">
+    System.Initialize("Mohamed Junaid");
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0"
+      keyTimes="0;0.25;0.75;1"
+      dur="10s"
+      begin="0s"
+      repeatCount="indefinite"
+    />
+  </text>
+
+  <!-- Text 2 -->
+  <text x="50%" y="30" text-anchor="middle" class="text">
+    B.Tech AI + Data Science Student
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0"
+      keyTimes="0;0.25;0.75;1"
+      dur="10s"
+      begin="2.5s"
+      repeatCount="indefinite"
+    />
+  </text>
+
+  <!-- Text 3 -->
+  <text x="50%" y="30" text-anchor="middle" class="text">
+    AI + Cybersecurity Developer
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0"
+      keyTimes="0;0.25;0.75;1"
+      dur="10s"
+      begin="5s"
+      repeatCount="indefinite"
+    />
+  </text>
+
+  <!-- Text 4 -->
+  <text x="50%" y="30" text-anchor="middle" class="text">
+    Freelance Full-Stack Engineer
+    <animate
+      attributeName="opacity"
+      values="0;1;1;0"
+      keyTimes="0;0.25;0.75;1"
+      dur="10s"
+      begin="7.5s"
+      repeatCount="indefinite"
+    />
+  </text>
+</svg>
