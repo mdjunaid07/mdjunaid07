@@ -1,8 +1,7 @@
-readme_content = """```markdown
 <h1 align="center">
   <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vcenter=true&width=500&lines=System.Initialize(%22Mohamed+Junaid%22);;AI+%2B+Cybersecurity+Engineer;Freelance+Full-Stack+Developer;Building+AI-Aided+SecProducts](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vcenter=true&width=500&lines=System.Initialize(%22Mohamed+Junaid%22);;AI+%2B+Cybersecurity+Engineer;Freelance+Full-Stack+Developer;Building+AI-Aided+SecProducts)" alt="Typing SVG" />
 </h1>
-_                            _       _                       _
+
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdjunaid07)
