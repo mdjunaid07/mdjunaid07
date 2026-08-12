@@ -1,6 +1,8 @@
 <h1 align="center">
  <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=1500&pause=50&color=00FF66&center=true&vcenter=true&width=650&lines=System.Initialize(%22Mohamed+Junaid%22)%3B;B.Tech+AI+%2B+Data+Science+Student%3B;AI+%2B+Cybersecurity+Developer%3B;Freelance+Full-Stack+Engineer" alt="Typing SVG" />
+<h1 align="center">
+  <img src="./assets/terminal-animation.svg" alt="Typing SVG" />
+</h1>
 </h1>
 </h1>
 
