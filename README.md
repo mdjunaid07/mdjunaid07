@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=230&pause=300&color=00FF66&center=true&vcenter=true&width=650&lines=System.Initialize(%22Mohamed+Junaid%22)%3B;B.Tech+AI+%2B+Data+Science+Student%3B;AI+%2B+Cybersecurity+Developer%3B;Freelance+Full-Stack+Engineer" alt="Typing SVG" />
+ <h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=100&color=00FF66&center=true&vcenter=true&width=650&lines=System.Initialize(%22Mohamed+Junaid%22)%3B;B.Tech+AI+%2B+Data+Science+Student%3B;AI+%2B+Cybersecurity+Developer%3B;Freelance+Full-Stack+Engineer" alt="Typing SVG" />
+</h1>
 </h1>
 
 <div align="center">
