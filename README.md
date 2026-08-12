@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vcenter=true&width=500&lines=System.Initialize(%22Mohamed+Junaid%22);;AI+%2B+Cybersecurity+Engineer;Freelance+Full-Stack+Developer;Building+AI-Aided+SecProducts](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vcenter=true&width=500&lines=System.Initialize(%22Mohamed+Junaid%22);;AI+%2B+Cybersecurity+Engineer;Freelance+Full-Stack+Developer;Building+AI-Aided+SecProducts)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vcenter=true&width=650&lines=System.Initialize(%22Mohamed+Junaid%22)%3B;B.Tech+AI+%2B+Data+Science+Student%3B;AI+%2B+Cybersecurity+Developer%3B;Freelance+Full-Stack+Engineer" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -29,7 +29,14 @@
  [>] Cyber AI Architect      : Engineering AI-aided cybersecurity defense engines.
  [>] Open-Source Guardian    : Securing supply chains & open-source risk posture.
 =============================================================================
-# Establish communication vector
-$ mailto  --target "junaid.cyber.tech@gmail.com"
-$ linkedin --profile "mohamed-junaid-tech"
-$ github   --user "mdjunaid07"
+### `[ root@junaid:~ ]$ connect --initiator user`
+
+`$ mailto  --target` [junaid.cyber.tech@gmail.com](mailto:junaid.cyber.tech@gmail.com)  
+`$ linkedin --profile` [mohamed-junaid-tech](https://www.linkedin.com/in/mohamed-junaid-tech/)  
+`$ github   --user` [mdjunaid07](https://github.com/mdjunaid07)
+
+<br />
+
+<div align="center">
+  <sub>⚡ Powered by curiosity, driven by code, secured by design. ⚡</sub>
+</div>
