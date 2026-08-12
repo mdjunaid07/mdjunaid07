@@ -15,7 +15,7 @@
 
 ### `[ root@junaid:~ ]$ cat about_me.json`
 
-
+```json
 {
   "identity": "Mohamed Junaid",
   "degree": "B.Tech AI & Data Science",
@@ -34,8 +34,8 @@
 `$ mailto  --target` [junaid.cyber.tech@gmail.com](mailto:junaid.cyber.tech@gmail.com)  
 `$ linkedin --profile` [mohamed-junaid-tech](https://www.linkedin.com/in/mohamed-junaid-tech/)  
 `$ github   --user` [mdjunaid07](https://github.com/mdjunaid07)
-
+```
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=00FF66&center=true&vcenter=true&width=600&lines=System.Initialize(%22Mohamed+Junaid%22);B.Tech+AI+%2B+Data+Science+Student;AI+%2B+Cybersecurity+Developer;Freelance+Full-Stack+Engineer" alt="Typing SVG" />
 </p>
-```json
+
